@@ -41,8 +41,6 @@ function validate(){
     }
 
      
-
-
     function showError(message){
        const errorElement= document.getElementById("demo")
        errorElement.style.color='red';
